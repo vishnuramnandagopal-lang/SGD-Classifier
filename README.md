@@ -18,8 +18,6 @@ Program to implement the prediction of iris species using SGD Classifier.
 Developed by: vishnuram g n
 RegisterNumber:  212225240187
 
-from google.colab import drive
-drive.mount('/content/drive')
 
 import pandas as pd 
 from sklearn.datasets import load_iris 
