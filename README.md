@@ -19,7 +19,7 @@ Program to implement the prediction of iris species using SGD Classifier.
 Developed by: vishnuram g n
 RegisterNumber:  212225240187
 */
-```
+
 from google.colab import drive
 drive.mount('/content/drive')
 
@@ -64,7 +64,7 @@ plt.title("Confusion Matrix")
 plt.show()
 <img width="916" height="653" alt="Screenshot 2026-03-19 142319" src="https://github.com/user-attachments/assets/40ed3e27-0f59-43bb-a35e-0c7562518b7e" />
 
-
+```
 
 ## Result:
 Thus, the program to implement the prediction of the Iris species using SGD Classifier is written and verified using Python programming.
